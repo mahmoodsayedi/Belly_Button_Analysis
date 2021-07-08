@@ -6,4 +6,4 @@ Pages: https://mahmoodsayedi.github.io/Belly_Button_Analysis/
 
 Here is the dashboard
 
-![Dashboard_Overview] (https://github.com/mahmoodsayedi/Belly_Button_Analysis/blob/main/bacteria.png)
+![Dashboard_Overview](https://github.com/mahmoodsayedi/Belly_Button_Analysis/blob/main/bacteria.png)
